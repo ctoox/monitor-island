@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 打包产物
+*.exe
+*.dll
+*.pyd
+build/
+dist/
+pysidedeploy.spec
+nuitka-crash-report.xml
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
